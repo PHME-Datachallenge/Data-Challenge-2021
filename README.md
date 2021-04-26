@@ -18,5 +18,9 @@ The teams must keep the input and the ouput and the name of the TestClassificati
 - ClusterPerformance.ipynb presents the Python code to run the Clustering pipeline for the BONUS point. 
 - data_challenge_CBonusPoint_evaluation contains a textual description of the meaning of each function of ClusterPerformance.ipynb 
 
+### NEW: The model refinement dataset of the data challenge is now avaiable for download! The dataset is avaiable through the teams' profile page.
+
+### NEW: Details about the the scoring function are now in the data_challenge_score_function.pdf document. 
+
 ### License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
