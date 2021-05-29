@@ -1,0 +1,7 @@
+Class,Signals
+4,['Pressure']
+5,['VacuumFusePicked','Vacuum', 'VacuumValveClosed']
+7,['FusePicked','VacuumFusePicked']
+9,['SmartMotorSpeed','SmartMotorPositionError']
+11,['SmartMotorSpeed','SmartMotorPositionError']
+12,['DurationRobotFromFeederToTestBench','DurationRobotFromTestBenchToFeeder']
