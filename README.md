@@ -32,4 +32,4 @@ We are glad to announce the final ranking and score is now avaiable at: https://
 ### Citation
 For citation purposes, please use:
 
-Luca Biccio, Mario Russi, Siavash Bigdeli, Danilo Giordano, and Daniel Gagar. (2021). "PHME Data Challenge". European conference of the prognostics and health management society.
+Luca Biggio, Mario Russi, Siavash Bigdeli, Iason Kastanis, Danilo Giordano, and Daniel Gagar. (2021). "PHME Data Challenge". European conference of the prognostics and health management society.
